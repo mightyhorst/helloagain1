@@ -1,0 +1,6 @@
+{
+	"data": [
+		{"id": 1 ,"email": "dom@kitset.io" ,"pwd": "test1234" ,"first_name": "Dominic" ,"last_name": "Trang"},
+		{"id": 2 ,"email": "nick@kitset.io" ,"pwd": "1234test" ,"first_name": "Nick" ,"last_name": "Mitchell"}
+	]
+}
